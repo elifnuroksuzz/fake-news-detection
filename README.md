@@ -1,4 +1,3 @@
-````markdown
 # 🔍 Sahte Haber Tespit Sistemi
 
 <div align="center">
@@ -42,7 +41,7 @@ pip install -r requirements.txt
 
 # 3️⃣ Hızlı pipeline’ı çalıştır (3-5 dakika)
 python fast_pipeline.py
-````
+
 
 ✅ Sistem şunları yapacaktır:
 
