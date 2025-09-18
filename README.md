@@ -1,4 +1,3 @@
-
 # 🔍 Sahte Haber Tespit Sistemi
 
 <div align="center">
@@ -11,7 +10,7 @@
 
 *LIAR veri seti üzerinde, gelişmiş özellik mühendisliğiyle hazırlanmış profesyonel sistem*
 
-[Hızlı Başlangıç](#-hızlı-başlangıç) • [Sonuçlar](#-sonuçlar) 
+[Hızlı Başlangıç](#-hızlı-başlangıç) • [Sonuçlar](#-sonuçlar) • [Özellikler](#-özellikler) • [Demo](#-demo)
 
 </div>
 
@@ -100,8 +99,6 @@ fake-news-detection/
 ├── config.yaml                      # Konfigürasyon ayarları
 └── requirements.txt                 # Bağımlılıklar
 ```
-
----
 
 ---
 
@@ -255,3 +252,5 @@ MIT Lisansı – [LICENSE](LICENSE) dosyasına bakın.
 
 </div>
 ```
+
+---
