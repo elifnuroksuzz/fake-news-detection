@@ -98,6 +98,7 @@ fake-news-detection/
 ├── fast_pipeline.py                 # ⚡ Optimize pipeline
 ├── config.yaml                      # Konfigürasyon ayarları
 └── requirements.txt                 # Bağımlılıklar
+            # Bağımlılıklar
 ```
 
 ---
