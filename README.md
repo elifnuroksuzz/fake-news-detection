@@ -233,9 +233,9 @@ MIT Lisansı – [LICENSE](LICENSE) dosyasına bakın.
 ```bibtex
 @software{fake_news_detection_2024,
   title={Profesyonel Sahte Haber Tespit Sistemi},
-  author={[Adınız]},
-  year={2024},
-  url={https://github.com/[username]/fake-news-detection}
+  author={Elif Nur ÖKSÜZ},
+  year={2025},
+  url={https://github.com/[elifnuroksuzz]/fake-news-detection}
 }
 ```
 
