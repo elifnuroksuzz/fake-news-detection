@@ -1,0 +1,5 @@
+# Proje konfigürasyon dosyası
+model:
+  name: default_model
+  parameters:
+    learning_rate: 0.01

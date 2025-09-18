@@ -1,0 +1,18 @@
+[2025-09-18 11:54:15] INFO: 🚀 FakeNewsDetectionPipeline başlatıldı!
+[2025-09-18 11:54:15] INFO: 🚀 TAM FAKE NEWS DETECTION PIPELINE BAŞLATILIYOR!
+[2025-09-18 11:54:15] INFO: 📊 AŞAMA 1: VERİ ÖN İŞLEME
+[2025-09-18 11:54:15] INFO: ✅ İşlenmiş veri mevcut, ön işleme atlaniyor
+[2025-09-18 11:54:15] INFO: 🔧 AŞAMA 2: FEATURE ENGİNEERİNG
+[2025-09-18 11:54:15] INFO: 📥 İşlenmiş veriler yükleniyor...
+[2025-09-18 11:54:15] INFO: 🔧 Feature engineering başlatılıyor...
+[2025-09-18 11:54:25] INFO: ✅ Feature engineering tamamlandı
+[2025-09-18 11:54:25] INFO: 🤖 AŞAMA 3: MODEL EĞİTİMİ
+[2025-09-18 11:54:25] INFO: 📊 Training veri boyutu: (10240, 10021)
+[2025-09-18 15:09:45] INFO: 🚀 FakeNewsDetectionPipeline başlatıldı!
+[2025-09-18 15:09:45] INFO: 🚀 TAM FAKE NEWS DETECTION PIPELINE BAŞLATILIYOR!
+[2025-09-18 15:09:45] INFO: 📊 AŞAMA 1: VERİ ÖN İŞLEME
+[2025-09-18 15:09:45] INFO: ✅ İşlenmiş veri mevcut, ön işleme atlaniyor
+[2025-09-18 15:09:45] INFO: 🔧 AŞAMA 2: FEATURE ENGİNEERİNG
+[2025-09-18 15:09:45] INFO: ✅ Feature'lar mevcut, feature engineering atlanıyor
+[2025-09-18 15:09:46] INFO: 🤖 AŞAMA 3: MODEL EĞİTİMİ
+[2025-09-18 15:09:46] INFO: 📊 Training veri boyutu: (10240, 10021)

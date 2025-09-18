@@ -1,0 +1,18 @@
+# Büyük dosyalar
+data/processed/*.pkl
+features_ready.pkl
+models/trained_models/*.pkl
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db

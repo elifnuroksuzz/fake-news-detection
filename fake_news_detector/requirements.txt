@@ -1,0 +1,5 @@
+# Proje bağımlılıkları
+pandas
+numpy
+scikit-learn
+tensorflow
