@@ -11,7 +11,7 @@
 
 *LIAR veri seti üzerinde, gelişmiş özellik mühendisliğiyle hazırlanmış profesyonel sistem*
 
-[Hızlı Başlangıç](#-hızlı-başlangıç) • [Sonuçlar](#-sonuçlar) • [Özellikler](#-özellikler) • [Demo](#-demo)
+[Hızlı Başlangıç](#-hızlı-başlangıç) • [Sonuçlar](#-sonuçlar) 
 
 </div>
 
@@ -81,7 +81,6 @@ python fast_pipeline.py
 
 ## 🗂️ Proje Yapısı
 
-```
 fake-news-detection/
 ├── 📁 src/                          # Çekirdek modüller
 │   ├── data_preprocessing.py        # Veri temizleme & tokenizasyon
@@ -99,7 +98,7 @@ fake-news-detection/
 ├── fast_pipeline.py                 # ⚡ Optimize pipeline
 ├── config.yaml                      # Konfigürasyon ayarları
 └── requirements.txt                 # Bağımlılıklar
-```
+
 
 ---
 
