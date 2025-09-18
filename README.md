@@ -1,3 +1,4 @@
+````markdown
 # 🔍 Sahte Haber Tespit Sistemi
 
 <div align="center">
@@ -41,7 +42,7 @@ pip install -r requirements.txt
 
 # 3️⃣ Hızlı pipeline’ı çalıştır (3-5 dakika)
 python fast_pipeline.py
-
+````
 
 ✅ Sistem şunları yapacaktır:
 
@@ -98,7 +99,6 @@ fake-news-detection/
 ├── fast_pipeline.py                 # ⚡ Optimize pipeline
 ├── config.yaml                      # Konfigürasyon ayarları
 └── requirements.txt                 # Bağımlılıklar
-            # Bağımlılıklar
 ```
 
 ---
@@ -124,7 +124,7 @@ fake-news-detection/
 ### 🎯 Model Güçlü Yanları
 
 * **Yüksek Kesinlik:** Yanlış pozitifleri minimize eder (0.74+)
-* **Güçlü Recall:** Sahte haberleri çoğunu yakalar (0.80+)
+* **Güçlü Recall:** Sahte haberlerin çoğunu yakalar (0.80+)
 * **Dengeli Performans:** F1-skorları 0.74 üstü
 * **Hızlı Çalışma:** Gerçek zamanlı tahmin yapabilir
 
@@ -255,3 +255,4 @@ MIT Lisansı – [LICENSE](LICENSE) dosyasına bakın.
 ```
 
 ---
+
